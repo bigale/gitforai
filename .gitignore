@@ -75,7 +75,7 @@ dmypy.json
 .ruff_cache/
 
 # Integrations (private repo - not tracked)
-integrations/
+/integrations/
 
 # GitForAI state and database
 .gitforai/
@@ -88,3 +88,6 @@ CLAUDE.md
 docs/*
 !docs/USER_GUIDE.md
 !docs/DOCKER.md
+
+# bv (beads viewer) local config and caches
+.bv/
